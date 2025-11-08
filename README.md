@@ -141,7 +141,7 @@ Add photos or short GIFs showing:
 
 ## 👨‍💻 Authors
 
-**Wafi & Belli**  
+**Wafi & Belly**  
 Department of Computer Science & Engineering  
 Basys3 FPGA Developers | Verilog Enthusiasts
 
