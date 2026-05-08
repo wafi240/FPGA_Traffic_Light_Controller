@@ -143,8 +143,9 @@ Add photos or short GIFs showing:
 
 ## 👨‍💻 Authors
 
-**Wafi & Belly**  
-Department of Computer Science & Engineering  
+**Samun Sadab Wafi & Efat Ara Belly**  
+Department of Computer Science & Engineering 
+Khulna University of Engineering & Technology
 Basys3 FPGA Developers | Verilog Enthusiasts
 
 ---
