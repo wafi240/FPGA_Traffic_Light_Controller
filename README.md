@@ -144,9 +144,9 @@ Add photos or short GIFs showing:
 ## 👨‍💻 Authors
 
 **Samun Sadab Wafi & Efat Ara Belly**  
-Department of Computer Science & Engineering 
+Department of Computer Science & Engineering, 
 Khulna University of Engineering & Technology
-Basys3 FPGA Developers | Verilog Enthusiasts
+
 
 ---
 
